@@ -30,7 +30,7 @@ python3 PortsCanner.py or ./PortsCanner.py
 
 It will only work with IP not with DNS.
 
-In Windows It will not clear the screen befor showing the banner.
+In Windows It will not clear the screen before showing the banner.
 
 Mainly made for Linux.
 
@@ -46,4 +46,8 @@ HTB - https://app.hackthebox.eu/profile/407010
 TryHackMe - <img src="https://tryhackme-badges.s3.amazonaws.com/RaidenKun999.png" alt="TryHackMe">
 
 
-## FIND PORTS AND EXPLOIT IT
+
+
+
+
+##                                                             FIND PORTS AND EXPLOIT IT
