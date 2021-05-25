@@ -26,7 +26,13 @@ python3 PortsCanner.py or ./PortsCanner.py
 
 ![Screenshot from 2021-05-25 11-12-36](https://user-images.githubusercontent.com/70388641/119445339-42bf6080-bd4a-11eb-9aab-a4630153a0ff.png)
 
-Remember It will only work with IP not with DNS.
+## Note
+
+It will only work with IP not with DNS.
+
+In Windows It will not clear the screen befor showing the banner.
+
+Mainly made for Linux.
 
 
 # Description
