@@ -1,4 +1,2 @@
+pyfiglet
 colorama
-pyfiglet==0.7
-socket
-IPy
