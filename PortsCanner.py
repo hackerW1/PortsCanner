@@ -1,9 +1,11 @@
 #!/usr/bin/python3
 
+from os import system
 import socket
 import pyfiglet
 from colorama import Fore, Back, Style
 
+system('clear')
 
 banner = pyfiglet.figlet_format("PortsCanner", font="computer")
 print(Fore.YELLOW + banner)
