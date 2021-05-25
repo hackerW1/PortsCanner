@@ -5,9 +5,13 @@ Here is it How can you Install
 
 ## Install
 sudo apt install git
+
 git clone https://github.com/hackerW1/PortsCanner.git
+
 cd PortsCanner
+
 pip3 install -r requirements.txt
+
 sudo chmod 744 PortsCanner.py
 
 #### Now Done!
@@ -28,8 +32,12 @@ Remember It will only work with IP not with DNS.
 # Description
 
 Made By - hackerW1
+
 Email - ytanmay37@gmail.com
+
 HTB - https://app.hackthebox.eu/profile/407010
-TryHackMe - <script src="https://tryhackme.com/badge/471802"></script>
+
+TryHackMe - <img src="https://tryhackme-badges.s3.amazonaws.com/RaidenKun999.png" alt="TryHackMe">
+
 
 ## FIND PORTS AND EXPLOIT IT
