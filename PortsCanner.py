@@ -12,8 +12,8 @@ print(Fore.YELLOW + banner)
 print(Fore.GREEN + "		  Scan Ports Easier Than Nmap	       \n")
 
 
-ipaddress = input('''[+] INPUT THE IP OF THE TARGET: ''')
-port = int(input('''[+] INPUT THE PORT TO SCAN: '''))
+ipaddress = input('[+] INPUT THE IP OF THE TARGET: ')
+port = int(input('[+] INPUT THE PORT TO SCAN: '))
 
 try:
     sock = socket.socket()
