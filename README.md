@@ -4,6 +4,7 @@ It is a Python project cuz I am learning Python for ethical hacking.
 Here is it How can you Install
 
 ## Install
+```
 sudo apt install git
 
 git clone https://github.com/hackerW1/PortsCanner.git
@@ -13,6 +14,7 @@ cd PortsCanner
 pip3 install -r requirements.txt
 
 sudo chmod 744 PortsCanner.py
+```
 
 #### Now Done!
 
@@ -32,20 +34,10 @@ New Update Work With DNS also
 
 Mainly made for Linux.
 
+## Contributors 
 
-# Description
+robiot
 
-Made By - hackerW1
-
-Email - ytanmay37@gmail.com
-
-HTB - https://app.hackthebox.eu/profile/407010
-
-TryHackMe - <img src="https://tryhackme-badges.s3.amazonaws.com/RaidenKun999.png" alt="TryHackMe">
-
-Contributer - Robi0t
-
-
-
+hackerW1
 
 ##                                                             FIND PORTS AND EXPLOIT IT
