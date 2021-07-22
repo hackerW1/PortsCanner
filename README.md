@@ -5,22 +5,26 @@ Here is it How can you Install
 
 ## Install
 ```
-sudo apt install git
+$ sudo apt install git
 
-git clone https://github.com/hackerW1/PortsCanner.git
+$ git clone https://github.com/hackerW1/PortsCanner.git
 
-cd PortsCanner
+$ cd PortsCanner
 
-pip3 install -r requirements.txt
+$ pip3 install -r requirements.txt
 
-sudo chmod 744 PortsCanner.py
+$ sudo chmod 744 PortsCanner.py
 ```
 
 #### Now Done!
 
 ## Use
 ```
-python3 PortsCanner.py or ./PortsCanner.py
+$ python3 PortsCanner.py
+```
+OR
+```
+$ ./PortsCanner.py
 ```
 
 ![Screenshot from 2021-05-25 11-12-17](https://user-images.githubusercontent.com/70388641/119445281-2c190980-bd4a-11eb-9a58-2ac09b21c14b.png)
