@@ -41,8 +41,8 @@ Mainly made for Linux.
 
 ## Contributors 
 
-robiot
+[robiot](https://github.com/robiot/)
 
-hackerW1
+[hackerW1](https://github.com/hackerW1/)
 
 ##                                                             FIND PORTS AND EXPLOIT IT
